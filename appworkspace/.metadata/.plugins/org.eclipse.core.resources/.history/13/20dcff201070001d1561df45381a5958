@@ -1,0 +1,5 @@
+package newsmanager.springboot;
+
+public @interface WithMockUser {
+
+}
