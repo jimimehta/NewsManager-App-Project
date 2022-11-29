@@ -1,7 +1,0 @@
-INDEX VERSION 1.4+C:\Users\lol\Desktop\App Project\appworkspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-2051954011.index
-2034199638.index
-615600701.index
-972389648.index
-3622278623.index
-1535901993.index
