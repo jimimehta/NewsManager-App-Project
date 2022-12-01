@@ -45,7 +45,7 @@ class ViewNewsComponent extends Component {
                                         </div>
                                         <div className = "row">
                                             <label> <th>Read_more:</th> </label>
-                                            <div> <a href="#">{ this.state.news.read_more }</a></div>
+                                            <div> <a href={this.state.news.read_more}>{ this.state.news.read_more }</a></div>
                                         </div>
                                         <div className = "row">
                                             <label> <th>Article:</th> </label>
