@@ -16,4 +16,4 @@ To view it in json format in browser or postman Go to http://localhost:8080/api/
 
 Run npm-start on the react-frontend.
 
-Go to http://localhost:3000/ to view it in browser.
+Go to http://localhost:3000/ to view it in Browser.
