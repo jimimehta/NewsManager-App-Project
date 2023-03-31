@@ -50,7 +50,7 @@ class SpringbootBackendApplicationTests {
 	@Test
 	  public void should_find_news_by_author() {
 
-		List<News> newss = new ArrayList<News>();
+			List<News> newss = new ArrayList<News>();
 	    newsRepository.findByAuthorContaining("Chaya").forEach(newss::add);
 
 	    assertThat(newss).isEmpty();
