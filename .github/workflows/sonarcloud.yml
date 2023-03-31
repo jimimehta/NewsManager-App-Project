@@ -49,7 +49,7 @@ jobs:
         # uses: SonarSource/sonarcloud-github-action@de2e56b42aa84d0b1c5b622644ac17e505c9a049
         uses: SonarSource/sonarcloud-github-action@de2e56b42aa84d0b1c5b622644ac17e505c9a049
         env:
-          GITHUB_TOKEN: ${{ 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 }}  # Needed to get PR information
+          GITHUB_TOKEN: ${{ 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 }}  # Needed to get PR information
           SONAR_TOKEN: ${{ af5b53dd13c2678cc1aa8504cd63ecdbb295dc7c }}   # Generate a token on Sonarcloud.io, add it to the secrets of this repo with the name SONAR_TOKEN (Settings > Secrets > Actions > add new repository secret)
         with:
           # Additional arguments for the sonarcloud scanner
