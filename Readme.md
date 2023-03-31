@@ -5,7 +5,7 @@ Student ID: 40225526
 
 Demo Video: https://drive.google.com/file/d/1N0Vt2tRVrxA6oNXZ1PrGHpkNUy0CX1U1/view?usp=sharing
 
-To run this project: install eclipse, Microsoft SQL Server Management, Visual Studio Code
+To run this Project: install eclipse, Microsoft SQL Server Management, Visual Studio Code
 
 Import Database.csv to your connected database in MSSQL.
 
